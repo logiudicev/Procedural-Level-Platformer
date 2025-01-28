@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProceduralLevelPlatformer",
+	"Description": "Generate Procedural Levels Seamlessly without dragging and dropping a single mesh",
+	"Category": "Other",
+	"CreatedBy": "RenzoLG",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProceduralLevelPlatformer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
